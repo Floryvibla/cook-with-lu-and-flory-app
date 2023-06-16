@@ -1,11 +1,7 @@
 import React from "react";
 
 function App() {
-  return (
-    <div>
-      Deu certo! Aqui no FLoryg
-    </div>
-  );
+  return <div>Agora deu certo nessa porra, inferno</div>;
 }
 
 export default App;
