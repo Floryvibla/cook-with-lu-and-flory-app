@@ -18,8 +18,16 @@ function App() {
       <Text>Acha mais de 1200 receitas de comidas</Text>
 
       <Button>Sign In</Button>
+      <Button
+        style={{
+          backgroundColor: "#000000",
+          border: "1px solid #26ae98",
+          color: "#ffffff",
+        }}
+      >
+        Create account
+      </Button>
     </div>
   );
 }
-
 export default App;

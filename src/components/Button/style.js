@@ -8,7 +8,7 @@ export const ButtonStyled = styled.div`
   align-items: center;
   margin-top: 20px;
   text-align: center;
-  color: #a0f6df;
+  color: #c6f4e8;
   display: flex;
   justify-content: center;
 `;
